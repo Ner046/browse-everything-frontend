@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.vscode/
+.idea/              # if you ever use IntelliJ/WebStorm
+*.sublime-*
+
+*~
+*.tmp
+*.bak
+*.log
+
+.env
