@@ -14,7 +14,7 @@ Website created by following a figma design, the technologies that were used are
 
 ## Features
 
-- Fully Respnsive design
+- Fully Responsive design
 - Hamburger Menu toggle for mobile
 - Clean modern design following figma template
 
