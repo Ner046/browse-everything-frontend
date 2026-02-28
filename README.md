@@ -4,11 +4,9 @@ Website created by following a figma design, the technologies that were used are
 ## Live Demo
 
 
-
 ## Screenshots
-
+- Desktop Design
 ![Desktop](image.png)
-
 
 - Mobile Design
 ![Mobile](image-1.png)
